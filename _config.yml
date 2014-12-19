@@ -9,8 +9,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Not your Typical Doctor
-tagline:             'Professional Ramblings'
+title:               Ramblings of a Virtual Doctor
+tagline:             'Doctor is In...'
 description:         'My site developed in Markdown using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> . '
 url:                 http://lanyon.getpoole.com
 baseurl:             /

@@ -1,16 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Not your Typical Doctor</title>
+ <title>Ramblings of a Virtual Doctor</title>
  <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
  <link href="http://lanyon.getpoole.com/"/>
- <updated>2014-12-19T17:44:48-05:00</updated>
+ <updated>2014-12-19T18:06:22-05:00</updated>
  <id>http://lanyon.getpoole.com</id>
  <author>
    <name>Mike Dent</name>
    <email>mike.dent@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>First!!!</title>
+   <link href="http://lanyon.getpoole.com/2014/12/19/InaguralPost/"/>
+   <updated>2014-12-19T00:00:00-05:00</updated>
+   <id>http://lanyon.getpoole.com/2014/12/19/InaguralPost</id>
+   <content type="html">&lt;p&gt;Yes, I am not your typical doctor.  Folks at work call me The Doctor, well because it&amp;#39;s an easy nickname with my initials being MD, and for some reason they think I take care of things like a doctor.  So, we&amp;#39;ll go with that.&lt;/p&gt;
+
+&lt;h2&gt;Goodbye 2014, Hello 2015!&lt;/h2&gt;
+
+&lt;p&gt;Figured what better way to finish the year off and prepare for the next year than start working on one of my 2015 personal goals!  Each year I try to pick something (technology, language, etc) that I can focus on for the year.  &lt;/p&gt;
+
+&lt;p&gt;For 2015 I decided to focus on something I&amp;#39;ve always wanted to do, but never really wanted to put much effort into it.  Web Programming.  Markdown, Python, Ruby. A Blog.  I figured what better way to force myself to learn these technologies than to start a blog, write about it and other things.  &lt;/p&gt;
+
+&lt;p&gt;I decided to use &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, which is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;ve been taking a look at &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt; for a while, and combing Jekyll and Markdown into a  blog, I&amp;#39;m really excited.&lt;/p&gt;
+
+&lt;p&gt;So stay tuned, I hope to do some fun things here.  You can catch me on &lt;a href=&quot;https://twitter.com/mikedent13&quot;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks!&lt;/p&gt;
+</content>
+ </entry>
  
 
 </feed>
