@@ -17,5 +17,5 @@ Thanks for reading!
 * Love Technology
 * Love Crossfit
 
-I'd love to hear any feedback
+I'd love to **hear** any feedback
 Email me at {{ site.email }}
