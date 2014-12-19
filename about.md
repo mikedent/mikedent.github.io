@@ -16,6 +16,4 @@ Thanks for reading!
 ### Little bit about me
 * Love Technology
 * Love Crossfit
-
-I'd love to **hear** any feedback
-Email me at {{ site.email }}
+* My kids are furry and have four feet
