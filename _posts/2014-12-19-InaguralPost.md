@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First!!!
+comments: True
 ---
 
 Yes, I am not your typical doctor.  Folks at work call me The Doctor, well because it's an easy nickname with my initials being MD, and for some reason they think I take care of things like a doctor.  So, we'll go with that.
