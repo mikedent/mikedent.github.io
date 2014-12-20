@@ -17,4 +17,4 @@ I've been taking a look at [Markdown](http://daringfireball.net/projects/markdow
 
 So stay tuned, I hope to do some fun things here.  You can catch me on [Twitter](https://twitter.com/mikedent13)
 
-Thanks!
+Thanks!!
